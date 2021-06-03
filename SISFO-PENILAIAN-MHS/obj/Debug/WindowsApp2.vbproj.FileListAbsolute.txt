@@ -1,0 +1,12 @@
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\bin\Debug\WindowsApp2.exe
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\bin\Debug\WindowsApp2.pdb
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\bin\Debug\WindowsApp2.xml
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.exe
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.xml
+E:\mgondonf\05272021\WinFormsApp1\WindowsApp2\obj\Debug\WindowsApp2.pdb
